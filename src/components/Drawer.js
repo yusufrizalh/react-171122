@@ -53,6 +53,7 @@ function DrawerComponent() {
               </Link>
             </ListItemText>
           </ListItem>
+          <Divider />
           <ListItem onClick={() => setOpenDrawer(false)}>
             <ListItemText>
               <Link to="/chart" className={classes.link}>
@@ -60,10 +61,19 @@ function DrawerComponent() {
               </Link>
             </ListItemText>
           </ListItem>
+          <Divider />
           <ListItem onClick={() => setOpenDrawer(false)}>
             <ListItemText>
               <Link to="/gmap" className={classes.link}>
                 Gmap
+              </Link>
+            </ListItemText>
+          </ListItem>
+          <Divider />
+          <ListItem onClick={() => setOpenDrawer(false)}>
+            <ListItemText>
+              <Link to="/profile" className={classes.link}>
+                Profile
               </Link>
             </ListItemText>
           </ListItem>

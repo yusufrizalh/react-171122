@@ -68,6 +68,9 @@ function Navbar() {
               <Link to="/gmap" className={classes.link}>
                 GMap
               </Link>
+              <Link to="/profile" className={classes.link}>
+                Profile
+              </Link>
             </div>
           </Container>
         )}
