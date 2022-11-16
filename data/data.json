@@ -1,0 +1,110 @@
+{
+  "sales": [
+    {
+      "id": 1,
+      "name": "Valerie",
+      "revenue": 13500
+    },
+    {
+      "id": 2,
+      "name": "Anastasya",
+      "revenue": 11750
+    },
+    {
+      "id": 3,
+      "name": "Queen",
+      "revenue": 7400
+    },
+    {
+      "id": 4,
+      "name": "Merry",
+      "revenue": 9720
+    },
+    {
+      "id": 5,
+      "name": "Jonathan",
+      "revenue": 15000
+    },
+    {
+      "id": 6,
+      "name": "Paula",
+      "revenue": 8500
+    },
+    {
+      "id": 7,
+      "name": "Geonina",
+      "revenue": 4390
+    },
+    {
+      "id": 8,
+      "name": "Valencia",
+      "revenue": 8780
+    },
+    {
+      "id": 9,
+      "name": "Edward",
+      "revenue": 8320
+    },
+    {
+      "id": 10,
+      "name": "Stephen",
+      "revenue": 12640
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Building Web App with React.js Inixindo",
+      "content": "Lorem ipsum dolor amet",
+      "author": "Daniela"
+    },
+    {
+      "id": 2,
+      "title": "Web App Vue.js",
+      "content": "Lorem ipsum dolor amet",
+      "author": "Olla"
+    },
+    {
+      "id": 3,
+      "title": "Mobile App React Native",
+      "content": "Lorem ipsum",
+      "author": "Daniela"
+    },
+    {
+      "id": 4,
+      "title": "Mobile App Flutter",
+      "content": "Lorem ipsum",
+      "author": "Stefany"
+    },
+    {
+      "id": 5,
+      "title": "JavaScript Fundamentals",
+      "content": "Lorem ipsum",
+      "author": "Olla"
+    },
+    {
+      "id": 6,
+      "title": "Node.js",
+      "content": "Lorem ipsum",
+      "author": "Olla"
+    },
+    {
+      "title": "Asynchronous Programming with JavaScript",
+      "content": "Testing content",
+      "author": "Olla",
+      "id": 7
+    },
+    {
+      "title": "Cisco CCNA",
+      "content": "Cisco CCNA adalah materi pertama",
+      "author": "Daniela",
+      "id": 8
+    },
+    {
+      "title": "Learn Basic JavaScript",
+      "content": "Lorem ipsum",
+      "author": "Olla",
+      "id": 9
+    }
+  ]
+}
